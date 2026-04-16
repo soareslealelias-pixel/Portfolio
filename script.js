@@ -1,19 +1,18 @@
 
-
 const meusProjetos = [
     {
         titulo: "Meu Portfolio",
         tecnologias: ["HTML", "CSS", "JavaScript"],
         imagem: "./projeto.png", 
-        linkRepo: "#",
-        linkDeploy: "#"
+        linkRepo: "https://github.com/soareslealelias-pixel/Portfolio",
+        linkDeploy: "https://soareslealelias-pixel.github.io/Portfolio/"
     },
     {
         titulo: "Meu Portfolio - React -",
         tecnologias: ["React", "CSS", "Vite"],
         imagem: "./projeto.png", 
-        linkRepo: "#",
-        linkDeploy: "#"
+        linkRepo: "https://github.com/soareslealelias-pixel/portifolio-react",
+        linkDeploy: "https://portifolio-react-sooty.vercel.app/"
     },
 ];
 
